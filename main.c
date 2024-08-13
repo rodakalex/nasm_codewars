@@ -4,7 +4,7 @@
 #include <malloc.h>
 
 
-extern char *dna_to_rna(const char *current);
+extern char *get_age(const char *current);
 
 
 int main(void) {
